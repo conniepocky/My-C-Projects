@@ -1,0 +1,11 @@
+/home/connie/Desktop/c#/the-adventures-of-octocat/bin/Debug/netcoreapp2.2/the-adventures-of-octocat.deps.json
+/home/connie/Desktop/c#/the-adventures-of-octocat/bin/Debug/netcoreapp2.2/the-adventures-of-octocat.runtimeconfig.json
+/home/connie/Desktop/c#/the-adventures-of-octocat/bin/Debug/netcoreapp2.2/the-adventures-of-octocat.runtimeconfig.dev.json
+/home/connie/Desktop/c#/the-adventures-of-octocat/bin/Debug/netcoreapp2.2/the-adventures-of-octocat.dll
+/home/connie/Desktop/c#/the-adventures-of-octocat/bin/Debug/netcoreapp2.2/the-adventures-of-octocat.pdb
+/home/connie/Desktop/c#/the-adventures-of-octocat/obj/Debug/netcoreapp2.2/the-adventures-of-octocat.csprojAssemblyReference.cache
+/home/connie/Desktop/c#/the-adventures-of-octocat/obj/Debug/netcoreapp2.2/the-adventures-of-octocat.csproj.CoreCompileInputs.cache
+/home/connie/Desktop/c#/the-adventures-of-octocat/obj/Debug/netcoreapp2.2/the-adventures-of-octocat.AssemblyInfoInputs.cache
+/home/connie/Desktop/c#/the-adventures-of-octocat/obj/Debug/netcoreapp2.2/the-adventures-of-octocat.AssemblyInfo.cs
+/home/connie/Desktop/c#/the-adventures-of-octocat/obj/Debug/netcoreapp2.2/the-adventures-of-octocat.dll
+/home/connie/Desktop/c#/the-adventures-of-octocat/obj/Debug/netcoreapp2.2/the-adventures-of-octocat.pdb

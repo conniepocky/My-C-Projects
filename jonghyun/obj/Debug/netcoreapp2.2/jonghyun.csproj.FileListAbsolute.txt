@@ -1,0 +1,11 @@
+/home/connie/Desktop/c#/jonghyun/bin/Debug/netcoreapp2.2/jonghyun.deps.json
+/home/connie/Desktop/c#/jonghyun/bin/Debug/netcoreapp2.2/jonghyun.runtimeconfig.json
+/home/connie/Desktop/c#/jonghyun/bin/Debug/netcoreapp2.2/jonghyun.runtimeconfig.dev.json
+/home/connie/Desktop/c#/jonghyun/bin/Debug/netcoreapp2.2/jonghyun.dll
+/home/connie/Desktop/c#/jonghyun/bin/Debug/netcoreapp2.2/jonghyun.pdb
+/home/connie/Desktop/c#/jonghyun/obj/Debug/netcoreapp2.2/jonghyun.csprojAssemblyReference.cache
+/home/connie/Desktop/c#/jonghyun/obj/Debug/netcoreapp2.2/jonghyun.csproj.CoreCompileInputs.cache
+/home/connie/Desktop/c#/jonghyun/obj/Debug/netcoreapp2.2/jonghyun.AssemblyInfoInputs.cache
+/home/connie/Desktop/c#/jonghyun/obj/Debug/netcoreapp2.2/jonghyun.AssemblyInfo.cs
+/home/connie/Desktop/c#/jonghyun/obj/Debug/netcoreapp2.2/jonghyun.dll
+/home/connie/Desktop/c#/jonghyun/obj/Debug/netcoreapp2.2/jonghyun.pdb

@@ -1,0 +1,11 @@
+/home/connie/Desktop/c#/waffles/Waffles/bin/Debug/netcoreapp2.2/Waffles.deps.json
+/home/connie/Desktop/c#/waffles/Waffles/bin/Debug/netcoreapp2.2/Waffles.runtimeconfig.json
+/home/connie/Desktop/c#/waffles/Waffles/bin/Debug/netcoreapp2.2/Waffles.runtimeconfig.dev.json
+/home/connie/Desktop/c#/waffles/Waffles/bin/Debug/netcoreapp2.2/Waffles.dll
+/home/connie/Desktop/c#/waffles/Waffles/bin/Debug/netcoreapp2.2/Waffles.pdb
+/home/connie/Desktop/c#/waffles/Waffles/obj/Debug/netcoreapp2.2/Waffles.csprojAssemblyReference.cache
+/home/connie/Desktop/c#/waffles/Waffles/obj/Debug/netcoreapp2.2/Waffles.csproj.CoreCompileInputs.cache
+/home/connie/Desktop/c#/waffles/Waffles/obj/Debug/netcoreapp2.2/Waffles.AssemblyInfoInputs.cache
+/home/connie/Desktop/c#/waffles/Waffles/obj/Debug/netcoreapp2.2/Waffles.AssemblyInfo.cs
+/home/connie/Desktop/c#/waffles/Waffles/obj/Debug/netcoreapp2.2/Waffles.dll
+/home/connie/Desktop/c#/waffles/Waffles/obj/Debug/netcoreapp2.2/Waffles.pdb
